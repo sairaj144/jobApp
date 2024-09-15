@@ -1,0 +1,18 @@
+
+
+.job-detail {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .job-detail h1 {
+    margin-top: 0;
+  }
+  
+  .job-detail p {
+    margin: 10px 0;
+  }
+  
